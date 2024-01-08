@@ -38,6 +38,10 @@ The primary goal of data warehousing is to provide a consolidated view of an org
 - Efficient resource utilization and cost reduction
 - Support for strategic planning and goal setting
 
-## References
+## ReferencesS
 
--https://youtu.be/AHR_7jFCMeY?si=yh2AI4P-lwHH6eG7 -https://youtu.be/jmwGNhUXn_o?si=xEgSBOF3Psh9lZQ2
+-https://youtu.be/AHR_7jFCMeY?si=yh2AI4P-lwHH6eG7
+
+-https://youtu.be/jmwGNhUXn_o?si=xEgSBOF3Psh9lZQ2
+
+-https://youtu.be/CHYPF7jxlik?si=QZoESFCuGSant7wb
